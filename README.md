@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Gedeon-Arruda
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on C#
-- 📫 How to reach me Linkedin and GitHub
+Iniciei na área de TI de forma profissional em outubro de 2018, como Analista de Suporte de Sistemas. 
+Minha evolução como analista foi bem rápida, e logo, com menos tempo de empresa que meus colegas, virei referência para eles. Com menos de 1 ano, 
+virei Coordenador de Suporte, e passei e ter responsabilidades tanto na equipe de Suporte como de certa forma na equipe de desenvolvimento. 
 
-<!---
-Gedeon-Arruda/Gedeon-Arruda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Após 2 anos como Coordenador, iniciei minha vida na programação! 
+Desde então, estou aprendendo C# do zero desde o dia 01/09/2021 e acredito que logo mais serei uma ótima peça para meus lideres nos projetos,
+pois estou adquirindo uma ótima base de conhecimentos e consolidando de forma sistemática todo esse aprendizado. 
+
+Me descobri um apaixonado e entusiasta desse mundo da programação, e tenho certeza que vou conseguir contribuir muito ainda! 
